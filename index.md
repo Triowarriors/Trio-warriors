@@ -23,7 +23,7 @@ It is a project based learning app where students can complete their education a
 
  <b> Plan of action <b>
 our plan of action is to
-  1. Create a widespread pitch via social media / youtube video. 
+  1. We will collect the devices
   2. Nominate volunteers around us and also createa web of volunteers to help collect and drop the donated devices to the foundation. ![Screenshot from 2021-07-30 20-01-58](https://user-images.githubusercontent.com/87887668/127668563-c2910a65-0f52-48a6-8b17-4292ebf3dff2.jpg)
 
   3. Promote donation drive amongst family, Friends , school  and amongst residential Societies
