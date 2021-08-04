@@ -26,7 +26,3 @@ our plan of action is to
 
   <b>What is sikshana pedia app</b> ?   
 It is a project based learning app where students can complete their education at their own pace. It has the Facility to upload the project which automatically gets synced when connected to the internet. Teachers can provide feedback in the same projects in form of stars.Educational videos can be contextualised. For Eg, If I am studying maths the video automatically uses my name or my classmate’s name in the problem
-![Screenshot from 2021-07-29 09-50-01_11zon](https://user-images.githubusercontent.com/87887668/127729749-cd6f8089-4b66-4908-822f-5c0faa9cb2c9.jpg)
-
- ![Screenshot from 2021-07-29 11-04-52](https://user-images.githubusercontent.com/88227101/128197451-144724a1-1337-4fbb-bbaf-760d7dd53167.jpg)     
-
