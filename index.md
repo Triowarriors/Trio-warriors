@@ -23,7 +23,7 @@ our plan of action is to
 
  
  ![Screenshot from 2021-07-29 09-50-01_11zon](https://user-images.githubusercontent.com/88227101/128306076-08ad0c33-c991-4059-82a3-4269e4054a95.jpg)
- to know more click here <meta http-equiv="Refresh" content="0; url='https://www.raisetopi.org/" />
+ to know more click here 
  
 
  
