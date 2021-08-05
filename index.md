@@ -14,6 +14,7 @@ We are working this project with <b> RaiseToPi <b> in collaboration with <b> Sik
 <b>What is Sikshana Foundaion<b> ?   <br> **Sikshana Foundation began its operations in 2003 with a goal of improving the state of public education in the country. The foundation focuses on developing cost-effective replicable and scalable models which improve the learning levels delivered by the public institutions. The first such model called ‘Prerana’ a motivation-based intervention for primary schools has scaled to over 50,000 schools in six states, with Karnataka Education Department adopting the model and running it across all its schools in the state since 2017. to know more visist this website  <a> http://sikshana.org/  </a>     
 
  What is raisetopi ? click here to know https://www.raisetopi.org/
+![Screenshot from 2021-07-29 11-04-52](https://user-images.githubusercontent.com/88227101/128305485-ea476203-ccd2-470d-a40c-f1279d3d058f.jpg)
  ![Screenshot from 2021-07-29 09-50-01_11zon](https://user-images.githubusercontent.com/87887668/127729749-cd6f8089-4b66-4908-822f-5c0faa9cb2c9.jpg)   
 
  <b> Plan of action </b>
