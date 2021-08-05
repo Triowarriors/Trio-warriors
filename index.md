@@ -15,7 +15,8 @@ We are working this project with <b> RaiseToPi <b> in collaboration with <b> Sik
 
  What is raisetopi ? click here to know https://www.raisetopi.org/
 
- ![Screenshot from 2021-07-29 11-04-52](https://user-images.githubusercontent.com/88227101/128305485-ea476203-ccd2-470d-a40c-f1279d3d058f.jpg)!     [Screenshot from 2021-07-29 09-50-01_11zon](https://user-images.githubusercontent.com/87887668/127729749-cd6f8089-4b66-4908-822f-5c0faa9cb2c9.jpg)   
+ ![Screenshot from 2021-07-29 11-04-52](https://user-images.githubusercontent.com/88227101/128305485-ea476203-ccd2-470d-a40c-f1279d3d058f.jpg)  ![Screenshot from 2021-07-29 11-04-52](https://user-images.githubusercontent.com/88227101/128305993-afcfe9f2-aa4f-424b-98da-017600d0e3df.jpg)
+
 
  <b> Plan of action </b>
 our plan of action is to
