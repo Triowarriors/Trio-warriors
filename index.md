@@ -29,7 +29,7 @@ It is a project based learning app where students can complete their education a
  ![Screenshot from 2021-07-29 12-17-05](https://user-images.githubusercontent.com/88227101/128305548-15cafad9-b7e9-416b-8a07-7281c03d5f1e.jpg)
 
  
- <b> Our Inspiration </b>
+ <b> Our Inspiration </b> <br>  </br>
  
  During the 1st wave of the pandemic many people got affected. Then when the schools opened many of the kids could even attend school. Then we saw that Agastya foundation and lenovo partnered up to give devices to kids. So , we thought that we could could do something for the community. It was a really good chance to do something nice for the society.
  
