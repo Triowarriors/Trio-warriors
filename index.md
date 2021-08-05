@@ -25,7 +25,10 @@ our plan of action is to
  ![Screenshot from 2021-07-29 09-50-01_11zon](https://user-images.githubusercontent.com/88227101/128306076-08ad0c33-c991-4059-82a3-4269e4054a95.jpg)
  to know more click here <meta http-equiv="Refresh" content="0; url='https://www.raisetopi.org/" />
  
-![Screenshot from 2021-07-29 11-04-52](https://user-images.githubusercontent.com/88227101/128305485-ea476203-ccd2-470d-a40c-f1279d3d058f.jpg)                      
+
+ 
+ 
+ ![Screenshot from 2021-07-29 11-04-52](https://user-images.githubusercontent.com/88227101/128305485-ea476203-ccd2-470d-a40c-f1279d3d058f.jpg)                      
    <b>What is sikshana pedia app</b> ?   
 It is a project based learning app where students can complete their education at their own pace. It has the Facility to upload the project which automatically gets synced when connected to the internet. Teachers can provide feedback in the same projects in form of stars.Educational videos can be contextualised. For Eg, If I am studying maths the video automatically uses my name or my classmate’s name in the problem
 
