@@ -22,7 +22,13 @@ our plan of action is to
   2. Give it to Sikshana Foundation.
   3. Sikshana will clean up the device and will install Sikshana pedia app
   4. Then the devices will be given to the underprivileged kids.
-  ![Screenshot from 2021-07-29 09-50-01_11zon](https://user-images.githubusercontent.com/87887668/127729749-cd6f8089-4b66-4908-822f-5c0faa9cb2c9.jpg)
+
+![Screenshot from 2021-07-29 11-04-52](https://user-images.githubusercontent.com/88227101/128305485-ea476203-ccd2-470d-a40c-f1279d3d058f.jpg)
 
   <b>What is sikshana pedia app</b> ?   
 It is a project based learning app where students can complete their education at their own pace. It has the Facility to upload the project which automatically gets synced when connected to the internet. Teachers can provide feedback in the same projects in form of stars.Educational videos can be contextualised. For Eg, If I am studying maths the video automatically uses my name or my classmate’s name in the problem
+
+ ![Screenshot from 2021-07-29 12-17-05](https://user-images.githubusercontent.com/88227101/128305548-15cafad9-b7e9-416b-8a07-7281c03d5f1e.jpg)
+
+ 
+ <b> Our Inspiration </b>
