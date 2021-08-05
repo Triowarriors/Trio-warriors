@@ -8,8 +8,6 @@ We are working this project with <b> RaiseToPi <b> in collaboration with <b> Sik
 
 
   To donate please contact us through this email id <b> taadonate@gmail.com
- 
- ![Screenshot from 2021-07-29 11-04-52](https://user-images.githubusercontent.com/87887668/127729686-97b3c712-05ec-4609-80a3-745308ea76c5.jpg)
 
 <b>What is Sikshana Foundaion<b> ?   <br> **Sikshana Foundation began its operations in 2003 with a goal of improving the state of public education in the country. The foundation focuses on developing cost-effective replicable and scalable models which improve the learning levels delivered by the public institutions. The first such model called ‘Prerana’ a motivation-based intervention for primary schools has scaled to over 50,000 schools in six states, with Karnataka Education Department adopting the model and running it across all its schools in the state since 2017. to know more visist this website  <a> http://sikshana.org/  </a>     
 
@@ -34,3 +32,4 @@ It is a project based learning app where students can complete their education a
 
  
  <b> Our Inspiration </b>
+ 
