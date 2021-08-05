@@ -22,8 +22,8 @@ our plan of action is to
   4. Then the devices will be given to the underprivileged kids.
 
  
- <a href="https://www.raisetopi.org/"> <img href ="![Screenshot from 2021-07-29 09-50-01_11zon](https://user-images.githubusercontent.com/88227101/128306076-08ad0c33-c991-4059-82a3-4269e4054a95.jpg)">
- 
+ ![Screenshot from 2021-07-29 09-50-01_11zon](https://user-images.githubusercontent.com/88227101/128306076-08ad0c33-c991-4059-82a3-4269e4054a95.jpg)
+ to know more click here <meta http-equiv="Refresh" content="0; url='https://www.raisetopi.org/" />
  
 ![Screenshot from 2021-07-29 11-04-52](https://user-images.githubusercontent.com/88227101/128305485-ea476203-ccd2-470d-a40c-f1279d3d058f.jpg)                      
    <b>What is sikshana pedia app</b> ?   
