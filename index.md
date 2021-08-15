@@ -20,8 +20,8 @@ We are working this project with <b> RaiseToPi <b> in collaboration with <b> Sik
  
  
  
-<b> Plan of action </b>
-our plan of action is to
+<b> Plan of action :</b>
+ <b> our plan of action is to </b>
   1. Collect the devices from the donors
   2. Give it to Sikshana Foundation.
   3. Sikshana will clean up the device and will install Sikshana pedia app
