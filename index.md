@@ -31,15 +31,14 @@ It is a project based learning app where students can complete their education a
  
  The app has got the DCERT curiculam for all classes and can be easily accessed with worksheets .
 
- ![Screenshot from 2021-08-05 13-05-38](https://user-images.githubusercontent.com/88227101/128310680-ff11ac9e-f329-424b-9dae-99b44c7767c9.jpg) 
+
  
-  ![Screenshot from 2021-07-29 09-50-01_11zon](https://user-images.githubusercontent.com/88227101/128306076-08ad0c33-c991-4059-82a3-4269e4054a95.jpg)
+ <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf3WQ6CPKHEGGDAzYBV8RLdx-FioKUaa97swhiP90OhOgovVA/viewform?embedded=true" width="640" height="1243" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+ 
+![Screenshot from 2021-07-29 09-50-01_11zon](https://user-images.githubusercontent.com/88227101/128306076-08ad0c33-c991-4059-82a3-4269e4054a95.jpg)
  
  To know more click here : <a href="https://www.raisetopi.org/">https://www.raisetopi.org/</a>
   
  ![Screenshot from 2021-07-29 11-04-52](https://user-images.githubusercontent.com/88227101/128305485-ea476203-ccd2-470d-a40c-f1279d3d058f.jpg)     
  
  to know more click here : <a href="http://sikshana.org">http://sikshana.org</a>
- 
- <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf3WQ6CPKHEGGDAzYBV8RLdx-FioKUaa97swhiP90OhOgovVA/viewform?embedded=true" width="640" height="1243" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
- 
