@@ -11,8 +11,8 @@ We are working this project with <b> RaiseToPi <b> in collaboration with <b> Sik
  
   <b> Our Inspiration </b> <br>  
  
- We thought to take up this idea because children in government schools have not been able to attend classes the last year and should not be repeated this year. 
-There will be a gap in learning if they discontinue it.
+Based on government, data only 15% of the students which is almost 4.5 lakh students in Karnataka had access to internet . We thought to take up this idea because children in government schools have not been able to attend classes the last year and should not be repeated this year. 
+There will be a gap in learning if they discontinue .
 
  ![Screenshot from 2021-08-05 13-05-38](https://user-images.githubusercontent.com/88227101/128310680-ff11ac9e-f329-424b-9dae-99b44c7767c9.jpg) 
  
