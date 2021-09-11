@@ -11,8 +11,9 @@ We are working this project with <b> RaiseToPi <b> in collaboration with <b> Sik
  
   <b> Our Inspiration </b> <br>  
  
- During the 1st wave of the pandemic many people got affected. Then when the schools opened many of the kids could even attend school. Then we saw that Agastya foundation and lenovo partnered up to give devices to kids. So , we thought that we could could do something for the community. It was a really good chance to do something nice for the society.
- 
+ We thought to take up this idea because children in government schools have not been able to attend classes the last year and should not be repeated this year. 
+There will be a gap in learning if they discontinue it.
+
  ![Screenshot from 2021-08-05 13-05-38](https://user-images.githubusercontent.com/88227101/128310680-ff11ac9e-f329-424b-9dae-99b44c7767c9.jpg) 
  
 <b> Plan of action :</b>
