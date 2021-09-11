@@ -9,8 +9,32 @@ We are working this project with <b> RaiseToPi <b> in collaboration with <b> Sik
 
   To donate please contact us through this email id <b> taadonate@gmail.com
  
+  <b> Our Inspiration </b> <br>  
  
- ![Screenshot from 2021-07-29 09-50-01_11zon](https://user-images.githubusercontent.com/88227101/128306076-08ad0c33-c991-4059-82a3-4269e4054a95.jpg)
+ During the 1st wave of the pandemic many people got affected. Then when the schools opened many of the kids could even attend school. Then we saw that Agastya foundation and lenovo partnered up to give devices to kids. So , we thought that we could could do something for the community. It was a really good chance to do something nice for the society.
+ 
+ ![Screenshot from 2021-08-05 13-05-38](https://user-images.githubusercontent.com/88227101/128310680-ff11ac9e-f329-424b-9dae-99b44c7767c9.jpg) 
+ 
+<b> Plan of action :</b>
+ <b> our plan of action is to </b>
+  1. Collect the devices from the donors
+  2. Give it to Sikshana Foundation.
+  3. Sikshana Foundation will clean the devices and erase all the data, block the Sim port and load the APP.
+  4. Deliver it to the kids from the collaborating schools of sikshana.
+  5.  Sikshana to provide us the usage reports for us to update on the website to maintain transparency with the donors. 
+
+ 
+ 
+   <b>What is sikshana pedia app</b> ?   
+It is a project based learning app where students can complete their education at their own pace. It has the Facility to upload the project which automatically gets synced when connected to the internet. Teachers can provide feedback in the same projects in form of stars.Educational videos can be contextualised. For Eg, If I am studying maths the video automatically uses my name or my classmate’s name in the problem
+
+ ![Screenshot from 2021-07-29 12-17-05](https://user-images.githubusercontent.com/88227101/128305548-15cafad9-b7e9-416b-8a07-7281c03d5f1e.jpg)
+
+ ![Screenshot from 2021-08-05 13-05-38](https://user-images.githubusercontent.com/88227101/128310680-ff11ac9e-f329-424b-9dae-99b44c7767c9.jpg) 
+ 
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf3WQ6CPKHEGGDAzYBV8RLdx-FioKUaa97swhiP90OhOgovVA/viewform?embedded=true" width="640" height="1243" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+ 
+  ![Screenshot from 2021-07-29 09-50-01_11zon](https://user-images.githubusercontent.com/88227101/128306076-08ad0c33-c991-4059-82a3-4269e4054a95.jpg)
  
  To know more click here : <a href="https://www.raisetopi.org/">https://www.raisetopi.org/</a>
   
@@ -18,26 +42,3 @@ We are working this project with <b> RaiseToPi <b> in collaboration with <b> Sik
  
  to know more click here : <a href="http://sikshana.org">http://sikshana.org</a>
  
- 
- 
-<b> Plan of action :</b>
- <b> our plan of action is to </b>
-  1. Collect the devices from the donors
-  2. Give it to Sikshana Foundation.
-  3. Sikshana will clean up the device and will install Sikshana pedia app
-  4. Then the devices will be given to the underprivileged kids.
-
- 
-   <b>What is sikshana pedia app</b> ?   
-It is a project based learning app where students can complete their education at their own pace. It has the Facility to upload the project which automatically gets synced when connected to the internet. Teachers can provide feedback in the same projects in form of stars.Educational videos can be contextualised. For Eg, If I am studying maths the video automatically uses my name or my classmate’s name in the problem
-
- ![Screenshot from 2021-07-29 12-17-05](https://user-images.githubusercontent.com/88227101/128305548-15cafad9-b7e9-416b-8a07-7281c03d5f1e.jpg)
-
- 
- <b> Our Inspiration </b> <br>  
- 
- During the 1st wave of the pandemic many people got affected. Then when the schools opened many of the kids could even attend school. Then we saw that Agastya foundation and lenovo partnered up to give devices to kids. So , we thought that we could could do something for the community. It was a really good chance to do something nice for the society.
- 
- ![Screenshot from 2021-08-05 13-05-38](https://user-images.githubusercontent.com/88227101/128310680-ff11ac9e-f329-424b-9dae-99b44c7767c9.jpg) 
- 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf3WQ6CPKHEGGDAzYBV8RLdx-FioKUaa97swhiP90OhOgovVA/viewform?embedded=true" width="640" height="1243" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
