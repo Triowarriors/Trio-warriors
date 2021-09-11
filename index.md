@@ -28,8 +28,6 @@ We are working this project with <b> RaiseToPi <b> in collaboration with <b> Sik
    <b>What is sikshana pedia app</b> ?   
 It is a project based learning app where students can complete their education at their own pace. It has the Facility to upload the project which automatically gets synced when connected to the internet. Teachers can provide feedback in the same projects in form of stars.Educational videos can be contextualised. For Eg, If I am studying maths the video automatically uses my name or my classmate’s name in the problem
 
- ![Screenshot from 2021-07-29 12-17-05](https://user-images.githubusercontent.com/88227101/128305548-15cafad9-b7e9-416b-8a07-7281c03d5f1e.jpg)
-
  ![Screenshot from 2021-08-05 13-05-38](https://user-images.githubusercontent.com/88227101/128310680-ff11ac9e-f329-424b-9dae-99b44c7767c9.jpg) 
  
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf3WQ6CPKHEGGDAzYBV8RLdx-FioKUaa97swhiP90OhOgovVA/viewform?embedded=true" width="640" height="1243" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
